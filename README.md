@@ -9,3 +9,19 @@ PixelTest.swift <red>(optional) <green>(optional) <blue>(optional) <red2>(option
 ```
 
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/PixelTest/Screenshot.png?raw=true)
+
+## Lab Automator
+MacOS Swift app used to automate hardware testing lab. Features include:
+- Restore devices with software bundle
+- Install software patches onto devices
+- Kick off hardware testing sequence
+- File bug reports
+- Status tracking
+
+![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/LabAutomator/Interface.png?raw=true)
+
+## Cycle Time Wizard
+Downloads unit test logs from bug reporting API, parses unit test logs, and does test time analysis. Allows input from local test logs as well.
+
+## tgraphAnnotator
+Downloads unit test logs from bug reporting API, does test time anaylsis, and annotates T-Graph.
