@@ -1,5 +1,5 @@
 # Swift-Scripting-and-Automation
-Examples of Swift automation and scripting I've done in the workplace. Purpose of this repo is to display unique uses of Swift for scripting and automation purposes. 
+Examples of Swift automation and scripting use cases I've done in the workplace. Purpose of this repo is to display unique uses of Swift for scripting and automation purposes. 
 
 - Pixel Test: Example of hardware testing through Swift scripting
 - Lab Automator: Swift app used to automate hardware testing lab. 
