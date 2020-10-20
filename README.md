@@ -29,17 +29,18 @@ MacOS Swift app used to automate hardware testing lab. Features include:
 ## Cycle Time Wizard
 Downloads unit test logs from bug reporting API, and does test time analysis. Allows input from local test logs as well.
 
-Included are 2 Proof of Concept parsing scripts:
+#### Included are 2 Proof of Concept parsing scripts:
 - parseMemoryTests.swift: Parses cycle time from Memory tests
 - parseSystemConfigs.swift: Parses device hardware configs.
 
 These Swift scripts we're used as a POC before developing the full UI app "Cycle Time Wizard". 
 
-
+#### Cycle Time Wizard App Screenshot
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/Interface.png?raw=true)
 
 This is a screenshot of the App interface. The app allows you to drag in local test logs for anaylsis or to input multiple bug report ID's to download logs and then perform cycle time anaylsis.
 
+#### Output
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/CycleTime.png?raw=true)
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/EFITime.png?raw=true)
 
