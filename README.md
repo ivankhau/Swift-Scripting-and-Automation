@@ -1,5 +1,5 @@
 # Swift-Scripting-and-Automation
-Purpose of this repo is to display unique uses of Swift for scripting and automation purposes. These are old deprecated examples where I chose Swift as a scripting and automation language over Python. 
+Purpose of this repo is to display unique uses of Swift for scripting and automation purposes. These are old deprecated projects where I chose Swift as a scripting and automation language over Python. 
 
 - Pixel Test: Example of hardware testing through Swift scripting.
 - Lab Automator: Swift app used to automate hardware testing lab. 
