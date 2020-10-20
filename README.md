@@ -26,7 +26,7 @@ MacOS Swift app used to automate hardware testing lab. Features include:
 - Status tracking table (Table on the top right)
 - Status tracking through Website
 
-Enabled a single technician to operate a whole lab of devices.
+Enabled a single technician to manage a whole lab of devices.
 
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/LabAutomator/Interface.png?raw=true)
 
