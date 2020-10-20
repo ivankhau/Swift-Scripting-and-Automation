@@ -3,8 +3,8 @@ Purpose of this repo is to display unique uses of Swift for scripting and automa
 
 - Pixel Test: Example of hardware testing through Swift scripting
 - Lab Automator: Swift app used to automate hardware testing lab. 
-- Cycle Time Wizard: Swift App and Scripts used for unit log analysis.
-- tgraphAnnotator: Swift App and Scripts used for unit log analysis.
+- Cycle Time Wizard: Swift App and Scripts used for unit test log analysis.
+- tgraphAnnotator: Swift App and Scripts used for unit test log analysis.
 
 ## Pixel Test
 Swift version of a python factory display test. Scripts draws a NSWindow with a colored background for 5 seconds, followed by a NSWindow with a solid black background for 5 seconds. During these 5 seconds the factory operator checks to see if there are any defective pixels. An NSAlert then pops up asking the factory operator if there were any defective pixels.
