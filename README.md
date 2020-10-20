@@ -1,7 +1,7 @@
 # Swift-Scripting-and-Automation
 Purpose of this repo is to display unique uses of Swift for scripting and automation purposes. These are old deprecated examples where I chose Swift as a scripting and automation language over Python.
 
-- Pixel Test: Example of hardware testing through Swift scripting
+- Pixel Test: Example of hardware testing through Swift scripting.
 - Lab Automator: Swift app used to automate hardware testing lab. 
 - Cycle Time Wizard: Swift App and Scripts used for unit test log analysis.
 - tgraphAnnotator: Swift App and Scripts used for unit test log analysis.
