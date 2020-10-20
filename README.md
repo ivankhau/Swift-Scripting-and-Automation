@@ -67,7 +67,7 @@ Screenshot before analysis
 
 Screenshot after analysis
 
-![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/tgraphAnnotator/InterfaceParsed.png?raw=true)
+![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/tgraphAnnotator/InterfaceParsedUpdate.png?raw=true)
 
 Screenshot of annotated t-graph. Annotations are seen on the top. These annotations saved hours of analysis time.
 
