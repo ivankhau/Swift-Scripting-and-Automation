@@ -37,10 +37,12 @@ These Swift scripts we're used as a POC before developing the full UI app "Cycle
 
 
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/Interface.png?raw=true)
+
 This is a screenshot of the App interface. The app allows you to drag in local test logs for anaylsis or to input multiple bug report ID's to download logs and then perform cycle time anaylsis.
 
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/CycleTime.png?raw=true)
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/EFITime.png?raw=true)
+
 The app then outputs 2 CSV files as seen above.
 
 ## tgraphAnnotator
