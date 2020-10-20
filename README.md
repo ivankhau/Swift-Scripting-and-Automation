@@ -33,7 +33,7 @@ Downloads unit test logs from bug reporting API, and does test time analysis. Al
 - parseMemoryTests.swift: Parses cycle time from Memory tests
 - parseSystemConfigs.swift: Parses device hardware configs.
 
-These Swift scripts we're used as a POC before developing the full UI app "Cycle Time Wizard". 
+These Swift scripts we're used as a POC before developing the full UI app. 
 
 ### App Screenshot:
 This is a screenshot of the App interface. The app allows you to drag in local test logs for analysis or to input multiple bug report ID's to download logs and then perform cycle time analysis.
@@ -52,6 +52,8 @@ Downloads unit test logs from bug reporting API, does test time analysis, and an
 
 ### Included is a POC parsing script
 - annotate.swift
+
+This Swift script was used as a POC before developing the full UI App.
 
 ### App Screenshot:
 
