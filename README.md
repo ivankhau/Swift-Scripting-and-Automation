@@ -17,16 +17,31 @@ PixelTest.swift <red>(optional) <green>(optional) <blue>(optional) <red2>(option
 
 ## Lab Automator
 MacOS Swift app used to automate hardware testing lab. Features include:
-- Restore devices with software bundle
-- Install software patches onto devices
-- Kick off hardware testing sequence
+- Restore multiple devices with specified software bundle
+- Install software patches onto specified devices
+- Kick off hardware testing sequence on devices
 - File bug reports
-- Status tracking
+- Status tracking table (Table on the top right)
+- Status tracking through Website
 
 ![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/LabAutomator/Interface.png?raw=true)
 
 ## Cycle Time Wizard
-Downloads unit test logs from bug reporting API, parses unit test logs, and does test time analysis. Allows input from local test logs as well.
+Downloads unit test logs from bug reporting API, and does test time analysis. Allows input from local test logs as well.
+
+Included are 2 Proof of Concept parsing scripts:
+- parseMemoryTests.swift: Parses cycle time from Memory tests
+- parseSystemConfigs.swift: Parses device hardware configs.
+
+These Swift scripts we're used as a POC before developing the full UI app "Cycle Time Wizard". 
+
+
+![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/Interface.png?raw=true)
+This is a screenshot of the App interface. The app allows you to drag in local test logs for anaylsis or to input multiple bug report ID's to download logs and then perform cycle time anaylsis.
+
+![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/CycleTime.png?raw=true)
+![Screenshot](https://github.com/ivankhau/Swift-Scripting-and-Automation/blob/main/CycleTimeWizard/EFITime.png?raw=true)
+The app then outputs 2 CSV files as seen above.
 
 ## tgraphAnnotator
 Downloads unit test logs from bug reporting API, does test time anaylsis, and annotates T-Graph.
